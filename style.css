@@ -1,0 +1,45 @@
+body{
+    background-color: #868199;
+    text-align: center;
+    font-weight: 600 px;
+    margin:32px;
+    margin: auto;
+    font-family: sans-serif;
+    text-align: justify;
+    font-style: <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">;
+
+}
+.lego{
+    color: #2e435a;
+    font-style: italic;
+}
+a {
+    color: #367dc9;
+    font-weight: bold;
+    text-decoration: none;
+  } 
+a:hover {
+    text-decoration: underline;
+  }
+#spe{
+    font-size: 12px;
+    text-align: right;
+  }
+table{ border-collapse: collapse;
+     width: 100%;
+    }
+th, td { 
+    border: 1px solid black;
+    padding: 8px;
+     text-align: center;
+     } 
+thead th { 
+    border-bottom: 3px solid rgba(0, 0, 0, 0.253);
+ }
+ table, th, td {
+     border-width: 3px;
+    }
+    tbody td { 
+    border-width: 1px;}
